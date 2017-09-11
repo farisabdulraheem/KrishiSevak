@@ -1,0 +1,6 @@
+﻿namespace krishisevak
+{
+	class r
+	{
+	}
+}

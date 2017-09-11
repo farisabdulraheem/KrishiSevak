@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:id="@+id/schemename"
+        android:textStyle="bold"
+        android:fontFamily="TimesNewRoman"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/schemedesc"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:id="@+id/lastdate"
+        android:paddingLeft="80dp"
+        android:textStyle="italic"
+        android:fontFamily="TimesNewRoman"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+</LinearLayout>

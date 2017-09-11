@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:minWidth="25dp"
+    android:minHeight="25dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/homebar"
+        android:background="#d19200"
+        android:gravity="center">
+        <TextView
+            android:text="Scheme"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:paddingLeft="30dp"
+            android:textSize="30dp"
+            android:background="#d19200"
+            android:id="@+id/head"
+            android:textStyle="bold"
+            android:fontFamily="TimesNewRoman"
+            android:textColor="@android:color/background_light"
+            android:includeFontPadding="true" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/schemeno"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:id="@+id/schemenames"
+        android:textStyle="bold"
+        android:fontFamily="TimesNewRoman"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/schemedescs"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/maxs"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:id="@+id/lastdates"
+        android:paddingLeft="80dp"
+        android:textStyle="italic"
+        android:fontFamily="TimesNewRoman"
+        android:textColor="#000000"
+        android:includeFontPadding="true" />
+</LinearLayout>

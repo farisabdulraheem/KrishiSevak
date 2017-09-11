@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{FF322DB7-3B73-4539-90AC-80E8764338D6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\LoginActivity.cs" line="54" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\LoginActivity.cs" line="57" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\LoginActivity.cs" line="64" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\LoginActivity.cs" line="67" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="103" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="104" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="105" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="107" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="110" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="111" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="112" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="117" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="119" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="120" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="88" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeActivity.cs" line="38" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeActivity.cs" line="40" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeActivity.cs" line="41" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="36" column="1" />
+      <Breakpoint file="C:\Users\NIHAL NM\Documents\Projects\krishisevak\krishisevak\SchemeRequestActivity.cs" line="94" column="5" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="krishisevak\SchemeActivity.cs" Line="25" Column="38" />
+      <File FileName="krishisevak\Adapters\SchemesAdapter.cs" Line="71" Column="3" />
+      <File FileName="krishisevak\Models\schemeslist.cs" Line="16" Column="40" />
+      <File FileName="krishisevak\LoginActivity.cs" Line="67" Column="1" />
+      <File FileName="krishisevak\SchemeRequestActivity.cs" Line="50" Column="54" />
+      <File FileName="krishisevak\SignupActivity.cs" Line="68" Column="60" />
+      <File FileName="krishisevak\PageActivity.cs" Line="1" Column="1" />
+      <File FileName="krishisevak\packages.config" Line="1" Column="1" />
+      <File FileName="krishisevak\MainActivity.cs" Line="17" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.krishisevak AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.EAAZCY21H676" />
+</Properties>
